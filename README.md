@@ -1,2 +1,0 @@
-# Java_UDEMY
-ESTUDOS DO CURSO DESENVOLVIMENTO JAVA DA UDEMY - Prodessora Giuliana Silva
